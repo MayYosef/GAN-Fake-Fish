@@ -2,6 +2,7 @@
 <h2>Generating non-real fish images through a GAN Architecture</h2>-
 
 In this project I created fake images of fish, i.e. non-real fish using the GAN network.
+written in Python and run in the Google Colab environment with GPU.
  
  <img src="https://github.com/MayYosef/GAN-ThisFishDoesNotExist/blob/master/images/GAN1.jpeg" width="50%" />
  
